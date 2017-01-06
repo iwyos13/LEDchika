@@ -1,4 +1,4 @@
-! /bin/bash
+#! /bin/bash
 
 for ((i = 0; i < 30; i++)); do
     echo 1 > /dev/myled0
