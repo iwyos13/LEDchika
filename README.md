@@ -6,11 +6,11 @@ LEDを30回点滅させる。
 0.5[s]ON 0.2[s]OFF 0.1[s]ON 0.1[s]OFF を一周期とみなす
 
 # 使用例
-$make
-$sudo insmod myled.ko
-$sudo chmod 666 /dev/myled0
-$chmod +x Lchika.bash
-$sudo ./Lchika.bash
+$make　<br>
+$sudo insmod myled.ko <br>
+$sudo chmod 666 /dev/myled0 <br>
+$chmod +x Lchika.bash <br>
+$sudo ./Lchika.bash <br>
 
 
 動画　https://youtu.be/xt7cQoVluCc
